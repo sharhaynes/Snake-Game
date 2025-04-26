@@ -1,4 +1,4 @@
-#A Game of Snake using Python - www.101computing.net/snake-game-using-python/
+
 import turtle
 import random
 import time
